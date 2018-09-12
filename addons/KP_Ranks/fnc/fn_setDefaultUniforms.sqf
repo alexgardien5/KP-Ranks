@@ -4,7 +4,7 @@
     File: fn_setDefaultUniforms.sqf
     Author: Wyqer - https://github.com/KillahPotatoes
     Date: 2018-07-09
-    Last Update: 2018-07-13
+    Last Update: 2018-09-12
     License: GNU General Public License v3.0 - https://www.gnu.org/licenses/gpl-3.0.html
 
     Description:
@@ -30,10 +30,10 @@ KPR_uniforms = [
 
     // Bundeswehr Wood
     ["BWA3_Uniform_Fleck", 0],
-    ["BWA3_Uniform_idz_Fleck", 0],
+    ["BWA3_Uniform_sleeves_Fleck", 0],
+    ["BWA3_Uniform_tee_Fleck", 0],
     ["BWA3_Uniform2_Fleck", 0],
-    ["BWA3_Uniform2_idz_Fleck", 0],
-    ["BWA3_Uniform3_idz_Fleck", 0],
+    ["BWA3_Uniform2_sleeves_Fleck", 0],
     ["IP_U_B_CombatUniform_light_KSK_Tropic", 0],
     ["IP_U_B_CombatUniform_light_KSK_Tropic_shortsleeve", 0],
     ["IP_U_B_ReconUniform_KSK_Tropic", 0],
@@ -48,10 +48,10 @@ KPR_uniforms = [
 
     // Bundeswehr Desert
     ["BWA3_Uniform_Tropen", 1],
-    ["BWA3_Uniform_idz_Tropen", 1],
+    ["BWA3_Uniform_sleeves_Tropen", 1],
+    ["BWA3_Uniform_tee_Tropen", 1],
     ["BWA3_Uniform2_Tropen", 1],
-    ["BWA3_Uniform2_idz_Tropen", 1],
-    ["BWA3_Uniform3_idz_Tropen", 1],
+    ["BWA3_Uniform2_sleeves_Tropen", 1],
     ["PBW_Uniform1_tropen", 0],
     ["PBW_Uniform1H_tropen", 0],
     ["PBW_Uniform2_tropen", 0],

@@ -67,6 +67,9 @@ This program is distributed in the hope that it will be useful, but WITHOUT ANY 
 You should have received a copy of the GNU General Public License along with this program. If not, see http://www.gnu.org/licenses/.
 
 ## Changelog
+### v2.0.3
+* Tweaked: BWMod Uniform classnames due to their mod update.
+
 ### v2.0.2
 * Added: Portuguese localization. Thanks to [AngusDLX](https://github.com/AngusDLX)
 * Added: Spanish localization. Thanks to [Jettfiremachine](https://github.com/amunoz20)
